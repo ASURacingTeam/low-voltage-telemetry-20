@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>steering.qml</file>
+    </qresource>
+    <qresource prefix="/Gear"/>
+    <qresource prefix="/files"/>
+    <qresource prefix="/files" lang="english"/>
+    <qresource prefix="/\files"/>
+    <qresource prefix="/images"/>
+</RCC>
